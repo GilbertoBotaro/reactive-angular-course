@@ -29,10 +29,13 @@
 
 .lessons-table {
     min-height: 360px;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 
+.back-btn {
+  margin-top: 30px;
+}
 
 .search-bar {
     margin-top: 20px;
